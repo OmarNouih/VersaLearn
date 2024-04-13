@@ -26,7 +26,7 @@ python main.py
 For detailed information on the functionalities and usage of VersaLearn, refer to our complete documentation included within the application.
 
 ## Demonstration Video
-[![Watch the demo](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://github.com/OmarNouih/VersaLearn/blob/main/Explication.mp4)
+Watch the demonstration video here: [VersaLearn Demonstration](https://github.com/OmarNouih/VersaLearn/blob/main/Explication.mp4)
 
 ## Contributions
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
